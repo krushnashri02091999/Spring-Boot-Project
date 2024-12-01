@@ -1,0 +1,2 @@
+# GlobalException
+Global Exception Handling
